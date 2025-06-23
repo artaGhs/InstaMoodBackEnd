@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+.env
+/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Heroku
+/app/.heroku/
+/app/tmp/
+/app/logs/
+/app/bin/
+/app/dev/
+/app/.profile.d/
+/app/.cache/
+/app/lib/
+/app/include/
+/app/share/
+/app/src/ 
